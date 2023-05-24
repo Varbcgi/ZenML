@@ -1,6 +1,5 @@
 # ZenML 
 
-![ZenML Logo](zenml_logo.png)
 
 ZenML is an open-source machine learning (ML) operations (MLOps) framework that simplifies and streamlines the end-to-end ML workflow. It provides a robust and scalable platform to manage, orchestrate, and reproduce ML pipelines with a focus on reproducibility, collaboration, and automation.
 
